@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+h1{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 300%;
+  background-color: aquamarine;
+}
+h2{
+  font-family: 'Courier New', Courier, monospace;
+}
+img {
+  width: 100%;
+  height: 500px;
+  
+}
+button {
+  padding: 15px 50px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px;
+}
+button:hover {
+  background-color: rgb(160, 202, 44);
+}
+button:active {
+  background-color: #1bf0de;
+}
+h2{
+  text-align: center;
+}
+main{
+  margin: 100px;
+  text-align: justify;
+}
+.grid-item{
+  display: grid;
+  background-color: #2dc09b;
+  color: #fff;
+  text-align: center;
+  padding: 20px; 
+  border-radius: 50px;
+}
+.deforest{
+  width: 50%;
+  height: 300px;
+  border-radius: 40px;
+}
+.capi{
+  width: 50%;
+  height: 500px;
+  border-radius: 40px;
+}
